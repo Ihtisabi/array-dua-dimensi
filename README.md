@@ -33,7 +33,7 @@ Array dua dimensi A memiliki 2 elemen baris dan 3 dengan total seluruh elemennya
 <pre>
 indeks (0,0) = 1
 indeks (0,1) = 2
-indeks (0,2) = 3
+indeks (0,2) = 3		{ indeks (baris,kolom) = nilai elemen }
 indeks (1,0) = 4
 indeks (1,1) = 5
 indeks (1,2) = 6
