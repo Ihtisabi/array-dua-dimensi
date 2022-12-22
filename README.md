@@ -32,11 +32,11 @@ int A[2][3] = ( {1,2,3}
 Array dua dimensi A memiliki 2 elemen baris dan 3 dengan total seluruh elemennya adalah 6 (2*3). Dalam array dua dimensi, penomoran indeks yang pertama adalah elemen baris dan yang kedua adalah kolom. Angka yang berada pada penomoran indeks menunjukkan kepada jumlah elemennya, yaitu nilai indeks+1. Untuk mengakses setiap element array, penulisan indeks juga harus ditulis 2 kali, seperti contoh berikut:
 <pre>
 indeks (0,0) = 1
-indeks (0,1) = 4
-indeks (1,0) = 2
+indeks (0,1) = 2
+indeks (0,2) = 3
+indeks (1,0) = 4
 indeks (1,1) = 5
-indeks (2,0) = 3
-indeks (2,1) = 6
+indeks (1,2) = 6
 </pre>
 
 
